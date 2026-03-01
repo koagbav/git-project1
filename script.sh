@@ -1,1 +1,7 @@
-#!/usr/bin/bash
+#!/bin/bash
+
+pwd
+ls
+nproc
+lscpu
+lsblk
